@@ -1,0 +1,77 @@
+body {
+	font-family: Roboto, sans-serif;
+	background-color: #FFF9ED;
+	margin: 0;
+    padding: 0;
+}
+
+header {
+	background-color: #FFF0D2;
+    color: #fff;
+    padding: 2%;
+    text-align: center;
+    margin-bottom: 2%;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+nav, ul {
+	list-style: none;
+}
+
+nav, ul, li {
+	display: inline;
+	margin-right: 20px;
+}
+
+nav, ul, li, a{
+	text-decoration: none;
+	color: #5B4A25;
+	font-weight: bold;
+	font-size: 22px;
+}
+
+img {
+	border-style: solid;
+	border-color: #FFF9ED;
+	border-collapse: 2px;
+}
+
+h2, h3{
+	color: #5B4A25;
+}
+
+p{
+	color: #483F2C;
+}
+
+footer{
+	background-color: #FFF0D2;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+	color: #5B4A25;
+	text-align: center;
+	font-weight: bold;
+	padding: 10px;
+}
+
+.sobremi, .servicios, .portafolio {
+	max-width: 800px;
+    margin: 0 auto;
+    padding: 40px;
+    background-color: #fff;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+
+
+.wordle {
+	width: 100%;
+	max-width: 300px;
+	height: auto;
+}
+
+.pomo-time {
+	width: 100%;
+	max-width: 300px;
+	height: auto;
+}
